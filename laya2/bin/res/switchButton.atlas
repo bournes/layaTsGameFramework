@@ -1,0 +1,59 @@
+{
+    "frames": {
+        "btn.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 79,
+                "x": 0,
+                "y": 142
+            },
+            "sourceSize": {
+                "h": 82,
+                "w": 79
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "closeBG.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 177,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 177
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "openBG.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 177,
+                "x": 0,
+                "y": 71
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 177
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "switchButton.png",
+        "prefix": "switchButton/"
+    }
+}

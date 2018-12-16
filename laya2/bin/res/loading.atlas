@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "load_Reel.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 113,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 119,
+                "w": 113
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "loading.png",
+        "prefix": "loading/"
+    }
+}
